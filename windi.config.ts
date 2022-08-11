@@ -1,4 +1,4 @@
-import { defineConfig } from 'windicss/helpers'
+import { defineConfig } from "windicss/helpers";
 
 export default defineConfig({
   theme: {
@@ -9,6 +9,7 @@ export default defineConfig({
       instagram: "#c32aa3",
       whatsapp: "#25d366",
       contact: "#35465d",
+      website: "#000000",
     },
   },
 
@@ -19,5 +20,6 @@ export default defineConfig({
     "text-twitter",
     "text-whatsapp",
     "text-contact",
+    "text-website",
   ],
 });
