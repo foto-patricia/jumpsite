@@ -18,13 +18,18 @@
       icon="WhatsappIcon"
       color-name="whatsapp"
     />
-
-  <FeatherButton
+    <FeatherButton
       name="Homepage"
       link="https://www.patpol-photography.ch"
       icon="home"
       color-name="website"
-  />
+    />
+    <FeatherButton
+      name="Kontakt"
+      link="/vcard.vcf"
+      icon="user-plus"
+      color-name="contact"
+    />
   </div>
 </template>
 
