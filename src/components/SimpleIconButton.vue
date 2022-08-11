@@ -6,8 +6,7 @@
     target="_blank"
     rel="noopener"
   >
-    <!-- <vue-feather :type="icon" class="m-4 my-4" stroke-width="2"></vue-feather> -->
-    <component :is="icon" class="m-4 my-4 stroke-current"></component>
+    <component :is="icon" class="m-4 my-4 stroke-current stroke-1"></component>
     <p class="self-center mr-4 text-lg font-semibold">{{ name }}</p>
   </a>
 </template>

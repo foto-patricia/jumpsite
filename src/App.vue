@@ -1,26 +1,34 @@
 <template>
-  <div class="flex">
-    <SocialButton
+  <div class="flex flex-wrap">
+    <SimpleIconButton
       name="Facebook"
       link="https://www.facebook.com/PatPolPhotography"
       icon="FacebookIcon"
       color-name="facebook"
     />
-    <SocialButton
+    <SimpleIconButton
       name="Instagram"
       link="https://www.instagram.com/patpol_photography/"
       icon="InstagramIcon"
       color-name="instagram"
     />
-    <SocialButton
+    <SimpleIconButton
       name="WhatsApp"
       link="https://api.whatsapp.com/send?phone=41763471818"
       icon="WhatsappIcon"
       color-name="whatsapp"
     />
+
+  <FeatherButton
+      name="Homepage"
+      link="https://www.patpol-photography.ch"
+      icon="home"
+      color-name="website"
+  />
   </div>
 </template>
 
 <script setup lang="ts">
-import SocialButton from "./components/SocialButton.vue";
+import SimpleIconButton from "./components/SimpleIconButton.vue";
+import FeatherButton from "./components/FeatherButton.vue";
 </script>
