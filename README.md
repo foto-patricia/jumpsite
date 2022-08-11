@@ -1,9 +1,24 @@
-# Vue.js on Render
+# jumpsite3
 
-This is a minimal Vue.js project bootstrapped with [vue-cli](https://cli.vuejs.org/guide/creating-a-project.html).
+## Project setup
+```
+yarn install
+```
 
-The sample app is deployed on Render at https://vue.onrender.com.
+### Compiles and hot-reloads for development
+```
+yarn serve
+```
 
-## Deployment
+### Compiles and minifies for production
+```
+yarn build
+```
 
-Follow the guide at https://render.com/docs/deploy-vue-js.
+### Lints and fixes files
+```
+yarn lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
