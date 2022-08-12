@@ -1,6 +1,6 @@
 <template>
   <a
-    class="flex border border-2 rounded-md justify-self-start m-4"
+    class="flex border border-2 border-current rounded-md"
     :class="color"
     :href="link"
     target="_blank"

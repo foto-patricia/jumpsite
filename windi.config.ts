@@ -2,14 +2,16 @@ import { defineConfig } from "windicss/helpers";
 
 export default defineConfig({
   theme: {
-    colors: {
-      // check: https://www.lockedownseo.com/social-media-colors/#instagram
-      facebook: "#3b5998",
-      twitter: "#1da1f2",
-      instagram: "#c32aa3",
-      whatsapp: "#25d366",
-      contact: "#35465d",
-      website: "#000000",
+    extend: {
+      colors: {
+        // check: https://www.lockedownseo.com/social-media-colors/#instagram
+        facebook: "#3b5998",
+        twitter: "#1da1f2",
+        instagram: "#c32aa3",
+        whatsapp: "#25d366",
+        contact: "#35465d",
+        website: "#000000",
+      },
     },
   },
 
