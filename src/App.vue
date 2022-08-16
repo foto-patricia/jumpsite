@@ -2,7 +2,7 @@
   <span class="flex place-content-center text-lg font-bold font-sans m-2"
     >Pat Pol Photography</span
   >
-  <div class="mx-2 lg:flex lg:place-content-center">
+  <div class="mx-8 md:mx-4 lg:flex lg:place-content-center">
     <div
       class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 justify-evenly"
     >
