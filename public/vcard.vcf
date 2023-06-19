@@ -2,13 +2,13 @@ BEGIN:VCARD
 VERSION:2.1
 N:Polakova;Patricia
 FN:Patricia Polakova
-ORG:PatPol Photography
+ORG:Foto Patricia
 TEL;WORK;VOICE:+41 763471818
 ADR;WORK;PREF;CHARSET=utf-8:;Frankentalerstrasse 20A;Frankentalerstrasse 20A;Zürich;;8049;Switzerland
 LABEL;WORK;PREF;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE:Frankentalerstrasse 20A=0D=0A=
 8049 Z=C3=BCrich=0D=0A=
 Switzerland
-URL;WORK:https://www.patpol-photography.ch
+URL;WORK:https://www.foto-patricia.ch
 EMAIL;PREF;INTERNET:pat.pol.photography@gmail.com
 REV:20220811T215853Z
 END:VCARD
