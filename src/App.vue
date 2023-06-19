@@ -1,6 +1,6 @@
 <template>
   <span class="flex place-content-center text-lg font-bold font-sans m-2"
-    >Foto Patricia</span
+    >Foto-Patricia</span
   >
   <div class="mx-8 md:mx-4 lg:flex lg:place-content-center">
     <div
@@ -20,13 +20,13 @@
       />
       <SimpleIconButton
         name="Facebook"
-        link="https://www.facebook.com/foto-patricia"
+        link="https://www.facebook.com/FotoPatriciaPolakova"
         icon="FacebookIcon"
         color-name="facebook"
       />
       <SimpleIconButton
         name="Instagram"
-        link="https://www.instagram.com/foto-patricia/"
+        link="https://www.instagram.com/fotopatriciapolakova/"
         icon="InstagramIcon"
         color-name="instagram"
       />
