@@ -14,19 +14,19 @@
       />
       <FeatherButton
         name="Homepage"
-        link="https://www.patpol-photography.ch"
+        link="https://www.foto-patricia.ch"
         icon="home"
         color-name="website"
       />
       <SimpleIconButton
         name="Facebook"
-        link="https://www.facebook.com/PatPolPhotography"
+        link="https://www.facebook.com/foto-patricia"
         icon="FacebookIcon"
         color-name="facebook"
       />
       <SimpleIconButton
         name="Instagram"
-        link="https://www.instagram.com/patpol_photography/"
+        link="https://www.instagram.com/foto-patricia/"
         icon="InstagramIcon"
         color-name="instagram"
       />
