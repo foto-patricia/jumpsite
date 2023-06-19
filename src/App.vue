@@ -1,6 +1,6 @@
 <template>
   <span class="flex place-content-center text-lg font-bold font-sans m-2"
-    >Pat Pol Photography</span
+    >Foto Patricia</span
   >
   <div class="mx-8 md:mx-4 lg:flex lg:place-content-center">
     <div
